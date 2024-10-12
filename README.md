@@ -1,6 +1,9 @@
 # Lista-de-tareas-conectada-a-base-de-datos
 
-### Para poder utilizar este programa es necesario que descargue los 3 archivos de este repositorio
+### Para poder utilizar este programa es necesario que descargue los 4 archivos de este repositorio 
+![image](https://github.com/user-attachments/assets/4f515837-c251-48ef-b106-705658fb4e3b)
+
+### !Tambien es necesario tener instalado Node.js y SQLite en tu computador¡
 
 #### Una vez descargados, guardelos en una carpeta 
 ![image](https://github.com/user-attachments/assets/a3c9f293-82ec-4a60-93c7-e3831816078e)
